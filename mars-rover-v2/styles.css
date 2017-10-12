@@ -1,0 +1,72 @@
+
+/*
+https://codepen.io/wernight/pen/fBoHC?page=56
+
+http://images.creatureworld.net/items/piece_of_pumpkin_patch_dr._lovebite_gem.png
+
+https://codepen.io/steveszc/pen/AybjL?page=37
+
+https://codepen.io/tag/game/65/
+*/
+
+body {
+    background: #fff none repeat scroll 0 0;
+    color: #777777;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    margin: 0 auto;
+    max-width: 1250px;
+    width: 90%;
+    line-height: 1.5;
+}
+header {
+  background-color: #efefef;
+  border: 1px solid #efefef;
+  border-bottom: 2px solid gainsboro;
+  margin-bottom: 2%;
+}
+header h1 {
+  color: #ff7729;
+}
+
+.directions {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    padding: 0.5em 0;
+    width: 50%;
+    padding: 1.5em;
+}
+.fancy {
+    display: block;
+    padding: 0.5em;
+}
+.example-wrapper {
+    background: #f3f3f3;
+    padding: 1.5em;
+    margin-top: 25px;
+}
+
+span.code {
+  color: #46a5e5;
+}
+.terminal {
+    background: #000 none repeat scroll 0 0;
+    color: #fff;
+    letter-spacing: 1px;
+    display: inline-block;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* Classes To Resuse */
+.center-me {
+  text-align: center;
+}
+
+
+
+
+
+
+
